@@ -1,3 +1,5 @@
 # DuSticky-Notes
 
-Store your pending works in it
+A simple Notes storing landing page using HTML, CSS and JAVASCRIPT
+
+##Preview: https://dushyant029.github.io/DuSticky-Notes/
